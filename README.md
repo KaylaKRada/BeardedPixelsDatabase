@@ -56,6 +56,7 @@ This was a huge step forward for me in backend development. I had to think about
 ---
 
 ## 💡 Highlights
+- 🛠️ Technologies: PostgreSQL, Spring Boot, JPA, SQL, Entity Relationships
 - 🔄 Fully normalized schema  
 - 🔗 Clear table relationships with foreign keys  
 - 📸 Built to support a real photography business  
